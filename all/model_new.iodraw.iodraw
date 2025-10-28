@@ -1783,7 +1783,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FNWMgRH0NS3fb4bX4JDB-475" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Tokenization&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fillColor=#0000FF;fontStyle=1;fontColor=#FFFFFF;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="8955" y="414.25" width="710" height="136" as="geometry" />
+          <mxGeometry x="8935" y="423" width="710" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
