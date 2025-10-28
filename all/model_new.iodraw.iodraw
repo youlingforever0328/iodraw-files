@@ -1751,8 +1751,11 @@
         <mxCell id="FNWMgRH0NS3fb4bX4JDB-465" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;user_field_emb&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="8977" y="943" width="315" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="FNWMgRH0NS3fb4bX4JDB-466" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;user_field_emb&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="8987" y="953" width="315" height="112" as="geometry" />
+        <mxCell id="FNWMgRH0NS3fb4bX4JDB-466" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;doc_field_emb&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="9314" y="943" width="315" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="FNWMgRH0NS3fb4bX4JDB-467" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;doc_field_emb&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="9651" y="943" width="315" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
