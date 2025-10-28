@@ -1794,9 +1794,10 @@
         <mxCell id="FNWMgRH0NS3fb4bX4JDB-489" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fontColor=#FFFFFF;fontStyle=1;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="FNWMgRH0NS3fb4bX4JDB-475" target="FNWMgRH0NS3fb4bX4JDB-479">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9417" y="5.670000000000016" />
-              <mxPoint x="9843" y="5.670000000000016" />
-              <mxPoint x="9843" y="-267.33" />
+              <mxPoint x="9417" y="-47" />
+              <mxPoint x="9843" y="-47" />
+              <mxPoint x="9843" y="-267" />
+              <mxPoint x="9617" y="-267" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1943,6 +1944,9 @@
         </mxCell>
         <mxCell id="FNWMgRH0NS3fb4bX4JDB-525" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;rank_mixer_output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#663300;" vertex="1" parent="1">
           <mxGeometry x="9259.5" y="-943" width="315" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="FNWMgRH0NS3fb4bX4JDB-527" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=30;fontColor=#FFFFFF;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="10019" y="-457" width="73" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
