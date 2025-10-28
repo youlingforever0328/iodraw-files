@@ -259,16 +259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BOJoyVSMOuLxXokpXshn-132" value="DIN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="772" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOJoyVSMOuLxXokpXshn-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=3;" parent="1" source="BOJoyVSMOuLxXokpXshn-125" target="BOJoyVSMOuLxXokpXshn-132" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1660" y="822" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1755" y="852" />
-              <mxPoint x="1663" y="852" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1554.5" y="772" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h_qSXCEOVAAjgpyEUfMZ-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;fontStyle=1;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BOJoyVSMOuLxXokpXshn-134" target="BOJoyVSMOuLxXokpXshn-143">
           <mxGeometry relative="1" as="geometry" />
