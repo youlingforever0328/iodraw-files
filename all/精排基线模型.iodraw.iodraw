@@ -90,7 +90,7 @@
         <mxCell id="BOJoyVSMOuLxXokpXshn-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FFFFFF;strokeWidth=3;" parent="1" source="BOJoyVSMOuLxXokpXshn-51" target="BOJoyVSMOuLxXokpXshn-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BOJoyVSMOuLxXokpXshn-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FFFFFF;strokeWidth=3;" parent="1" source="BOJoyVSMOuLxXokpXshn-51" target="BOJoyVSMOuLxXokpXshn-212" edge="1">
+        <mxCell id="BOJoyVSMOuLxXokpXshn-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FFFFFF;strokeWidth=3;jumpStyle=arc;" parent="1" source="BOJoyVSMOuLxXokpXshn-51" target="BOJoyVSMOuLxXokpXshn-212" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="165" y="-183" />
