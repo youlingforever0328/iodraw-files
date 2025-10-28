@@ -1791,6 +1791,9 @@
         <mxCell id="FNWMgRH0NS3fb4bX4JDB-477" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Tokenization&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fillColor=#0000FF;fontStyle=1;fontColor=#FFFFFF;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="8850" y="-348" width="948" height="730" as="geometry" />
         </mxCell>
+        <mxCell id="FNWMgRH0NS3fb4bX4JDB-478" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Tokenization&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fillColor=#0000FF;fontStyle=1;fontColor=#FFFFFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="8962" y="483" width="710" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
