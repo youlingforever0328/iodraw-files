@@ -1380,14 +1380,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_qSXCEOVAAjgpyEUfMZ-54" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.551;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;fontStyle=1;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BOJoyVSMOuLxXokpXshn-36" target="BOJoyVSMOuLxXokpXshn-212">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1976" y="568" />
-              <mxPoint x="1976" y="95" />
-              <mxPoint x="1889" y="95" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="h_qSXCEOVAAjgpyEUfMZ-54" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.551;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;fontStyle=1;labelBackgroundColor=default;endArrow=classic;jumpStyle=arc;" edge="1" parent="1" source="BOJoyVSMOuLxXokpXshn-36" target="BOJoyVSMOuLxXokpXshn-212">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
