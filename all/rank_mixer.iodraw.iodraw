@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="-SsHDm4caovT3hy64p4y">
-    <mxGraphModel dx="12707" dy="7407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="7274" dy="4546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1933,7 +1933,7 @@
         <mxCell id="bj_LLXMH1Ay-jjxiPMo4-514" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=12;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;arcSize=6;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="8517" y="-1699" width="1723" height="2574" as="geometry" />
         </mxCell>
-        <mxCell id="bj_LLXMH1Ay-jjxiPMo4-515" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;llm_feature_tower&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="bj_LLXMH1Ay-jjxiPMo4-515" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;rank_mixer_tower&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="8524" y="-1863" width="352" height="72" as="geometry" />
         </mxCell>
       </root>
