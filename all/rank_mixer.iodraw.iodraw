@@ -1933,7 +1933,7 @@
         <mxCell id="bj_LLXMH1Ay-jjxiPMo4-513" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;fillColor=#1ba1e2;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="9608" y="-1401" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bj_LLXMH1Ay-jjxiPMo4-515" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;rank_mixer_tower&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="bj_LLXMH1Ay-jjxiPMo4-515" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;rank_mixer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="8970" y="1091" width="869" height="290" as="geometry" />
         </mxCell>
       </root>
