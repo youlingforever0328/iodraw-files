@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2UpfeBoN62PidufeDXez-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;strokeWidth=12;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;arcSize=6;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="4497" y="-1692" width="1882" height="3204" as="geometry" />
-        </mxCell>
-        <mxCell id="2UpfeBoN62PidufeDXez-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00FF80;strokeWidth=12;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;arcSize=6;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="6467" y="-1695" width="1689" height="3204" as="geometry" />
-        </mxCell>
         <mxCell id="2UpfeBoN62PidufeDXez-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fillColor=none;" edge="1" parent="1" source="2UpfeBoN62PidufeDXez-7" target="2UpfeBoN62PidufeDXez-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
