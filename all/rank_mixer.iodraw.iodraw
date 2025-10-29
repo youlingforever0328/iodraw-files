@@ -1934,7 +1934,7 @@
           <mxGeometry x="8517" y="-1699" width="1723" height="2574" as="geometry" />
         </mxCell>
         <mxCell id="bj_LLXMH1Ay-jjxiPMo4-515" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;rank_mixer_tower&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="8524" y="-1863" width="352" height="72" as="geometry" />
+          <mxGeometry x="8495" y="-1806" width="352" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
