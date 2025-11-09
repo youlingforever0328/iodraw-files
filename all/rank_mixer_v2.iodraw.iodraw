@@ -1839,7 +1839,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uBaegsZAnjzZKOwki5Sq-490" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 110px;&quot;&gt;RankMixer&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;opacity=50;strokeColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1469" y="-68" width="1133" height="196" as="geometry" />
+          <mxGeometry x="-206.5" y="693" width="1133" height="196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
