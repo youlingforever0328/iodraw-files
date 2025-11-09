@@ -1734,13 +1734,10 @@
         <mxCell id="ieWSNruTrAZsEajuEGGT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=30;fillColor=#000000;fontStyle=1;fontColor=#FFFFFF;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-1679" y="-3053" width="948" height="673" as="geometry" />
         </mxCell>
-        <mxCell id="ieWSNruTrAZsEajuEGGT-36" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ieWSNruTrAZsEajuEGGT-7" target="ieWSNruTrAZsEajuEGGT-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ieWSNruTrAZsEajuEGGT-7" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;query_field_emb&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="-1884" y="-1788" width="315" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="ieWSNruTrAZsEajuEGGT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=3;jumpStyle=arc;" edge="1" parent="1" source="ieWSNruTrAZsEajuEGGT-9" target="ieWSNruTrAZsEajuEGGT-14">
+        <mxCell id="ieWSNruTrAZsEajuEGGT-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.375;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ieWSNruTrAZsEajuEGGT-9" target="ieWSNruTrAZsEajuEGGT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ieWSNruTrAZsEajuEGGT-9" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;user_field_emb&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;" vertex="1" parent="1">
