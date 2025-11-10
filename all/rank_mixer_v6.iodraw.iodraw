@@ -481,9 +481,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="buN11p0ZNtVkg8GBTBB4-453" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;rank_mixer_tower&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#666600;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="3969" y="-2319" width="352" height="72" as="geometry" />
-        </mxCell>
         <mxCell id="buN11p0ZNtVkg8GBTBB4-454" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;feed_tower&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#003333;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="7633" y="-2175" width="352" height="72" as="geometry" />
         </mxCell>
