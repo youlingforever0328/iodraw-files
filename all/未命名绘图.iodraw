@@ -554,8 +554,8 @@
         <mxCell id="WJ0v_GytEalVf75Rllyh-491" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF33FF;strokeWidth=15;jumpStyle=arc;" edge="1" parent="1" source="WJ0v_GytEalVf75Rllyh-146" target="WJ0v_GytEalVf75Rllyh-490">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-747" y="-435" />
-              <mxPoint x="-747" y="1330" />
+              <mxPoint x="-793" y="-435" />
+              <mxPoint x="-793" y="1330" />
               <mxPoint x="3021" y="1330" />
             </Array>
           </mxGeometry>
