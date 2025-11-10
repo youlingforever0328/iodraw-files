@@ -1715,9 +1715,9 @@
             <Array as="points">
               <mxPoint x="1692" y="-479" />
               <mxPoint x="2392" y="-479" />
-              <mxPoint x="2392" y="212" />
-              <mxPoint x="2478" y="212" />
-              <mxPoint x="2478" y="-833" />
+              <mxPoint x="2392" y="-507" />
+              <mxPoint x="1709" y="-507" />
+              <mxPoint x="1709" y="-833" />
               <mxPoint x="1275" y="-833" />
               <mxPoint x="1275" y="-693" />
             </Array>
