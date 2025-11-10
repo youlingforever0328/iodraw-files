@@ -864,7 +864,7 @@
           <mxGeometry x="507" y="1296" width="459" height="69" as="geometry" />
         </mxCell>
         <mxCell id="buN11p0ZNtVkg8GBTBB4-519" value="concat" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fillColor=#663300;strokeWidth=3;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="2" width="426" height="107" as="geometry" />
+          <mxGeometry x="2070" y="585" width="426" height="107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
