@@ -864,10 +864,10 @@
         <mxCell id="buN11p0ZNtVkg8GBTBB4-496" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 75px;&quot;&gt;cross_field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666600;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-1131" y="1396" width="523" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="buN11p0ZNtVkg8GBTBB4-497" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 75px;&quot;&gt;ctx_field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;opacity=50;strokeColor=#CC0066;" vertex="1" parent="1">
+        <mxCell id="buN11p0ZNtVkg8GBTBB4-497" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 75px;&quot;&gt;ctx_field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0066;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-153" y="1334" width="523" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="buN11p0ZNtVkg8GBTBB4-498" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 75px;&quot;&gt;seq_field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;opacity=50;" vertex="1" parent="1">
+        <mxCell id="buN11p0ZNtVkg8GBTBB4-498" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 75px;&quot;&gt;seq_field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="522" y="1337" width="657" height="170" as="geometry" />
         </mxCell>
         <mxCell id="buN11p0ZNtVkg8GBTBB4-499" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 75px;&quot;&gt;dense_field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;opacity=50;" vertex="1" parent="1">
