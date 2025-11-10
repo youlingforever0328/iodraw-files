@@ -1521,7 +1521,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVYgOPOy_k4A1w2BeQuQ-420" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.232;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YVYgOPOy_k4A1w2BeQuQ-24" target="YVYgOPOy_k4A1w2BeQuQ-411">
+        <mxCell id="YVYgOPOy_k4A1w2BeQuQ-420" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.232;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YVYgOPOy_k4A1w2BeQuQ-490" target="YVYgOPOy_k4A1w2BeQuQ-411">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3410" y="54" />
@@ -1838,6 +1838,16 @@
               <mxPoint x="2263" y="-630" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YVYgOPOy_k4A1w2BeQuQ-491" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.232;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YVYgOPOy_k4A1w2BeQuQ-24" target="YVYgOPOy_k4A1w2BeQuQ-490">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="3410" y="761" as="sourcePoint" />
+            <mxPoint x="4997" y="-826" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YVYgOPOy_k4A1w2BeQuQ-490" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 180px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b&gt;RankMixer&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;opacity=50;strokeColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="2583" y="-863" width="1788" height="1340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
