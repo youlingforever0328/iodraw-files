@@ -1842,6 +1842,9 @@
         <mxCell id="YVYgOPOy_k4A1w2BeQuQ-492" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 180px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b&gt;RankMixer&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;opacity=50;strokeColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="2581" y="-847" width="1761" height="1733" as="geometry" />
         </mxCell>
+        <mxCell id="YVYgOPOy_k4A1w2BeQuQ-493" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=10;strokeWidth=20;fillColor=#660000;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3055" y="1528" width="2550" height="2239" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
